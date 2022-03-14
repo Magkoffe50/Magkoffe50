@@ -15,4 +15,8 @@ Now I specialize in the frontend part of platform applications for operations wi
 - [x] Sufficiently self-organized, purposeful and persistent.
 - [x] Sociable and liberated in communication.
 
+### Contact me: 
+* [Telegram](https://t.me/kirill_kalinichenko)
+* ka.ki.ko.1995@gmail.com
+
 
