@@ -1,8 +1,6 @@
 ## Hi there, my name is Kirill! 👋 
 #### I am Frontend Developer on React. 
 
-Now I specialize in the frontend part of platform applications for operations with `crypto-currencies` and `blockchain` in general. I have good knowledge of integrating `web3` and `crypto wallets`.
-
 ##### My hard skills: 
 - [x] HTML
 - [x] CSS / SASS / Styled cmp
